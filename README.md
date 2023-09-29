@@ -1,6 +1,8 @@
 # AVR LED Brightness Control Project
 This repository contains an AVR-based project to control LED brightness using a button. The code is structured and compiled using a custom Makefile.
 
+<img src="./setup.JPG" alt="Project Image" width="400"/>
+
 ## Code Description
 The main functionality is to adjust the PWM duty cycle and consequently the brightness of an LED connected to an ATmega328p microcontroller based on button presses.
 
